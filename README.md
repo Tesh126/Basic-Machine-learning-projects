@@ -62,24 +62,8 @@ This project aims to classify **Weather Type** using meteorological, atmospheric
    - Model training, evaluation, and hyperparameter tuning.
    - Evaluation metrics: Accuracy, precision, recall, F1-score, and confusion matrix.
 
-#### Business Impact
+#### Impact
 Accurate weather classification enhances decision-making and resource management in weather-dependent sectors.
 
 ---
 
-## Repository Structure
-
-```plaintext
-/Basic Machine Learning Projects
-│
-├── Project_1_BMI_Prediction/
-│   ├── data/             # Dataset for BMI prediction
-│   ├── code/             # Python scripts for data preprocessing, modeling, and evaluation
-│   └── README.md         # Details about the BMI prediction project
-│
-├── Project_2_Weather_Classification/
-│   ├── data/             # Dataset for weather classification
-│   ├── code/             # Python scripts for data preprocessing, modeling, and evaluation
-│   └── README.md         # Details about the weather classification project
-│
-└── README.md             # This file (repository-level README)
